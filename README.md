@@ -129,6 +129,3 @@ The project collects a comprehensive set of financial performance metrics, valua
 - [Bedrock Agents Webscraper](https://github.com/build-on-aws/bedrock-agents-webscraper)
 - [BFI Working Paper](https://bfi.uchicago.edu/wp-content/uploads/2024/05/BFI_WP_2024-65.pdf)
 
-### License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
